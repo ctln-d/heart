@@ -1,0 +1,14 @@
+# KiCad backup and temporary files
+*.bak
+*.bck
+*~
+_autosave-*
+*.tmp
+*-bak
+*-backups/
+
+.history/
+
+Gerbers/
+*.gbr
+*.drl
